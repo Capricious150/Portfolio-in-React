@@ -10,7 +10,7 @@ function ContactModal(){
     return (
         <>
             <Nav.Link className="App-link" onClick={handleShow}>Contact</Nav.Link>
-            <Modal className="App-modal-header" size = "lg" centered show={showHome} onHide = {handleHide}>
+            <Modal size = "lg" centered show={showHome} onHide = {handleHide}>
 
             <Modal.Body className="App-modal">
                 <br></br>
