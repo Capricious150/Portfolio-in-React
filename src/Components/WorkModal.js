@@ -19,11 +19,11 @@ function WorkModal(){
                         <Card border="dark" className="Upper-card">
                             <Card.Img variant="top" src="Storage_Company.png" />
                                 <Card.Body className="App-modal-header">
-                                <Card.Title>Storage CRM</Card.Title>
-                                <Card.Subtitle>(Express, SQL, MySQL2, Sequelize)</Card.Subtitle>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                                <Card.Link href="#">Repo</Card.Link>
-                                <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Title>Storage CRM</Card.Title>
+                                    <Card.Subtitle>(Express, SQL, MySQL2, Sequelize)</Card.Subtitle>
+                                    <Card.Text>A demo CRM for a theoretical storage company</Card.Text>
+                                    <Card.Link href="#">Repo</Card.Link>
+                                    <Card.Link href="#">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -31,11 +31,11 @@ function WorkModal(){
                         <Card border="dark" className="Upper-card">
                             <Card.Img variant="top" src="PokeMon_TCG.png" />
                                 <Card.Body className="App-modal-header">
-                                <Card.Title>Pokemon Card Finder</Card.Title>
-                                <Card.Subtitle>(3rd Party APIs)</Card.Subtitle>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                                <Card.Link href="#">Repo</Card.Link>
-                                <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Title>Pokemon Card Finder</Card.Title>
+                                    <Card.Subtitle>(3rd Party APIs)</Card.Subtitle>
+                                    <Card.Text>Application for searching for Pokemon Trading Card data</Card.Text>
+                                    <Card.Link href="#">Repo</Card.Link>
+                                    <Card.Link href="#">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -43,49 +43,49 @@ function WorkModal(){
                     <Row>
                         <Col xs={12} sm={6} lg={3}>
                         <Card border="dark">
-                            <Card.Img variant="top" src="AustinAProfile.jpg" />
+                            <Card.Img variant="top" src="Social_API.png" />
                                 <Card.Body className="App-modal-header">
-                                <Card.Title>Demo Social Media API</Card.Title>
-                                <Card.Subtitle>(MongoDB, Mongoose)</Card.Subtitle>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                                <Card.Link href="#">Repo</Card.Link>
-                                <Card.Link href="#">Demo Video</Card.Link>
+                                    <Card.Title>Demo Social Media API</Card.Title>
+                                    <Card.Subtitle>(MongoDB, Mongoose)</Card.Subtitle>
+                                    <Card.Text>Demo API for Twitter-like Social Media Company</Card.Text>
+                                    <Card.Link href="#">Repo</Card.Link>
+                                    <Card.Link href="#">Demo Video</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
                         <Col xs={12} sm={6} lg={3}>
                         <Card border="dark">
-                            <Card.Img variant="top" src="AustinAProfile.jpg" />
+                            <Card.Img variant="top" src="Employee_Tracker.png" />
                                 <Card.Body className="App-modal-header">
-                                <Card.Title>Demo E-Commerce API</Card.Title>
-                                <Card.Subtitle>(SQL, MySQL2, Sequelize)</Card.Subtitle>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                                <Card.Link href="#">Repo</Card.Link>
-                                <Card.Link href="#">Demo Video</Card.Link>
+                                    <Card.Title>Demo E-Commerce API</Card.Title>
+                                    <Card.Subtitle>(SQL, MySQL2, Sequelize)</Card.Subtitle>
+                                    <Card.Text>Demo API for an Employee Management system</Card.Text>
+                                    <Card.Link href="#">Repo</Card.Link>
+                                    <Card.Link href="#">Demo Video</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
                         <Col xs={12} sm={6} lg={3}>
                         <Card border="dark">
-                            <Card.Img variant="top" src="AustinAProfile.jpg" />
+                            <Card.Img variant="top" src="This_Portfolio.png" />
                                 <Card.Body className="App-modal-header">
-                                <Card.Title>Note Taker</Card.Title>
-                                <Card.Subtitle>(Javascript)</Card.Subtitle>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                                <Card.Link href="#">Repo</Card.Link>
-                                <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Title>This Portfolio</Card.Title>
+                                    <Card.Subtitle>(React)</Card.Subtitle>
+                                    <Card.Text>This portfolio! Written in React</Card.Text>
+                                    <Card.Link href="#">Repo</Card.Link>
+                                    <Card.Link href="#">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
                         <Col xs={12} sm={6} lg={3}>
                         <Card border="dark">
-                            <Card.Img variant="top" src="Day_Planner.png" />
+                            <Card.Img variant="top" src="Day_Planner2.png" />
                                 <Card.Body className="App-modal-header">
-                                <Card.Title>Day Planner</Card.Title>
-                                <Card.Subtitle>(JQuery)</Card.Subtitle>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                                <Card.Link href="#">Repo</Card.Link>
-                                <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Title>Day Planner</Card.Title>
+                                    <Card.Subtitle>(JQuery)</Card.Subtitle>
+                                    <Card.Text>A simple day planner which uses local storage and moment.js</Card.Text>
+                                    <Card.Link href="#">Repo</Card.Link>
+                                    <Card.Link href="#">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
