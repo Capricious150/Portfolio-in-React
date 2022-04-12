@@ -1,4 +1,4 @@
-import { Container, Col, Nav, Modal, Row, Image, Card } from "react-bootstrap";
+import { Container, Col, Nav, Modal, Row, Card } from "react-bootstrap";
 import { useState } from "react";
 
 function WorkModal(){
@@ -22,8 +22,8 @@ function WorkModal(){
                                     <Card.Title>Storage CRM</Card.Title>
                                     <Card.Subtitle>(Express, SQL, MySQL2, Sequelize)</Card.Subtitle>
                                     <Card.Text>A demo CRM for a theoretical storage company</Card.Text>
-                                    <Card.Link href="#">Repo</Card.Link>
-                                    <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Link className="App-link" href="https://obscure-fortress-36199.herokuapp.com/" target="_blank">Repo</Card.Link>
+                                    <Card.Link className="App-link" href="https://github.com/Capricious150/Storage-Company-CRM" target="_blank">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -34,8 +34,8 @@ function WorkModal(){
                                     <Card.Title>Pokemon Card Finder</Card.Title>
                                     <Card.Subtitle>(3rd Party APIs)</Card.Subtitle>
                                     <Card.Text>Application for searching for Pokemon Trading Card data</Card.Text>
-                                    <Card.Link href="#">Repo</Card.Link>
-                                    <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Link className="App-link" href="https://github.com/eeoerkeedu/Pokemon_TCG_Finder" target="_blank">Repo</Card.Link>
+                                    <Card.Link className="App-link" href="https://eeoerkeedu.github.io/Pokemon_TCG_Finder/" target="_blank">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -48,8 +48,8 @@ function WorkModal(){
                                     <Card.Title>Demo Social Media API</Card.Title>
                                     <Card.Subtitle>(MongoDB, Mongoose)</Card.Subtitle>
                                     <Card.Text>Demo API for Twitter-like Social Media Company</Card.Text>
-                                    <Card.Link href="#">Repo</Card.Link>
-                                    <Card.Link href="#">Demo Video</Card.Link>
+                                    <Card.Link className="App-link" href="https://github.com/Capricious150/Demo-API-Social-Media" target="_blank">Repo</Card.Link>
+                                    <Card.Link className="App-link" href="https://drive.google.com/file/d/1uhKEytWpQxz2xpxSKIvQWu2XcKexGaWi/view" target="_blank">Demo Video</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -60,8 +60,8 @@ function WorkModal(){
                                     <Card.Title>Demo E-Commerce API</Card.Title>
                                     <Card.Subtitle>(SQL, MySQL2, Sequelize)</Card.Subtitle>
                                     <Card.Text>Demo API for an Employee Management system</Card.Text>
-                                    <Card.Link href="#">Repo</Card.Link>
-                                    <Card.Link href="#">Demo Video</Card.Link>
+                                    <Card.Link className="App-link" href="https://github.com/Capricious150/Backend-E-Commerce-Demo-App" target="_blank">Repo</Card.Link>
+                                    <Card.Link className="App-link" href="https://drive.google.com/file/d/1NLMM2sPU-J571YEKmVEauYaWN2We3-WT/view" target="_blank">Demo Video</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -71,9 +71,9 @@ function WorkModal(){
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>This Portfolio</Card.Title>
                                     <Card.Subtitle>(React)</Card.Subtitle>
-                                    <Card.Text>This portfolio! Written in React, with React-BootStrap and custom styling</Card.Text>
-                                    <Card.Link href="#">Repo</Card.Link>
-                                    <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Text>This portfolio! Written in React, with React-BootStrap</Card.Text>
+                                    <Card.Link className="App-link" href="https://github.com/Capricious150/Portfolio-in-React" target="_blank">Repo</Card.Link>
+                                    <Card.Link className="App-link" href="https://capricious150.github.io/Portfolio-in-React/" target="_blank">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -84,8 +84,8 @@ function WorkModal(){
                                     <Card.Title>Day Planner</Card.Title>
                                     <Card.Subtitle>(JQuery)</Card.Subtitle>
                                     <Card.Text>A simple day planner which uses local storage and moment.js</Card.Text>
-                                    <Card.Link href="#">Repo</Card.Link>
-                                    <Card.Link href="#">Deployed</Card.Link>
+                                    <Card.Link className="App-link" href="https://github.com/Capricious150/Day-Planner" target="_blank">Repo</Card.Link>
+                                    <Card.Link className="App-link" href="https://capricious150.github.io/Day-Planner/" target="_blank">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
