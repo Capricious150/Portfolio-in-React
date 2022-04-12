@@ -71,7 +71,7 @@ function WorkModal(){
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>This Portfolio</Card.Title>
                                     <Card.Subtitle>(React)</Card.Subtitle>
-                                    <Card.Text>This portfolio! Written in React</Card.Text>
+                                    <Card.Text>This portfolio! Written in React, with React-BootStrap and custom styling</Card.Text>
                                     <Card.Link href="#">Repo</Card.Link>
                                     <Card.Link href="#">Deployed</Card.Link>
                                 </Card.Body>
