@@ -15,19 +15,19 @@ function WorkModal(){
             <Modal.Body className="App-modal">
                 <Container>
                     <Row>
-                        <Col>
-                        <Card>
+                        <Col xs={12} md={6}>
+                        <Card border="dark" className="Upper-card">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                                <Card.Body>
+                                <Card.Body className="App-modal-header">
                                 <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col>
-                        <Card>
+                        <Col xs={12} md={6}>
+                        <Card border="dark" className="Upper-card">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                                <Card.Body>
+                                <Card.Body className="App-modal-header">
                                 <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
                                 </Card.Body>
@@ -35,28 +35,28 @@ function WorkModal(){
                         </Col>
                     </Row>
                     <Row>
-                        <Col>
-                        <Card>
+                        <Col xs={9} md={4}>
+                        <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                                <Card.Body>
+                                <Card.Body className="App-modal-header">
                                 <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col>
-                        <Card>
+                        <Col xs={9} md={4}>
+                        <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                                <Card.Body>
+                                <Card.Body className="App-modal-header">
                                 <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col>
-                        <Card>
+                        <Col xs={9} md={4}>
+                        <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                                <Card.Body>
+                                <Card.Body className="App-modal-header">
                                 <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
                                 </Card.Body>
