@@ -15,7 +15,7 @@ function WorkModal(){
             <Modal.Body className="App-modal">
                 <Container>
                     <Row>
-                        <Col xs={12} md={6}>
+                        <Col xs={12} lg={6}>
                         <Card border="dark" className="Upper-card">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
@@ -24,7 +24,7 @@ function WorkModal(){
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col xs={12} md={6}>
+                        <Col xs={12} lg={6}>
                         <Card border="dark" className="Upper-card">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
@@ -35,7 +35,7 @@ function WorkModal(){
                         </Col>
                     </Row>
                     <Row>
-                        <Col xs={9} md={4}>
+                        <Col xs={12} md={6} lg={4}>
                         <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
@@ -44,7 +44,7 @@ function WorkModal(){
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col xs={9} md={4}>
+                        <Col xs={12} md={6} lg={4}>
                         <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
@@ -53,7 +53,7 @@ function WorkModal(){
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col xs={9} md={4}>
+                        <Col xs={12} md={6} lg={4}>
                         <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
