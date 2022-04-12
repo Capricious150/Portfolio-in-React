@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Container, Col, Nav, Modal, Row, Image } from "react-bootstrap";
 
 function HomeModal () {
-    const [showHome, setShowHome] = useState(false);
+    const [showHome, setShowHome] = useState(true);
 
     const handleShow = () => setShowHome(true);
     const handleHide = () => setShowHome(false);
