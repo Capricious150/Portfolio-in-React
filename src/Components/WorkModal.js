@@ -16,63 +16,50 @@ function WorkModal(){
                 <Container>
                     <Row>
                         <Col>
-                            <Card>
-                                <Card.Img variant="top" src="AustinAProfile.jpg" />
+                        <Card>
+                            <Card.Img variant="top" src="AustinAProfile.jpg" />
+                                <Card.Body>
                                 <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
+                                </Card.Body>
                             </Card>
                         </Col>
                         <Col>
-                            <Card>
+                        <Card>
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                            <Card.Title>Project</Card.Title>
-                            <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
+                                <Card.Body>
+                                <Card.Title>Project</Card.Title>
+                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
+                                </Card.Body>
                             </Card>
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <Card>
+                        <Card>
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                            <Card.Title>Project</Card.Title>
+                                <Card.Body>
+                                <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
+                                </Card.Body>
                             </Card>
                         </Col>
                         <Col>
-                            <Card>
+                        <Card>
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                            <Card.Title>Project</Card.Title>
+                                <Card.Body>
+                                <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
+                                </Card.Body>
                             </Card>
                         </Col>
                         <Col>
-                            <Card>
+                        <Card>
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
-                            <Card.Title>Project</Card.Title>
+                                <Card.Body>
+                                <Card.Title>Project</Card.Title>
                                 <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                            </Card>
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col>
-                            <Card>
-                            <Card.Img variant="top" src="AustinAProfile.jpg" />
-                            <Card.Title>Project</Card.Title>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                            </Card>
-                        </Col>
-                        <Col>
-                            <Card>
-                            <Card.Img variant="top" src="AustinAProfile.jpg" />
-                            <Card.Title>Project</Card.Title>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
-                            </Card>
-                        </Col>
-                        <Col>
-                            <Card>
-                            <Card.Img variant="top" src="AustinAProfile.jpg" />
-                            <Card.Title>Project</Card.Title>
-                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
+                                </Card.Body>
                             </Card>
                         </Col>
                     </Row>
