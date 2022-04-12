@@ -22,8 +22,8 @@ function WorkModal(){
                                     <Card.Title>Storage CRM</Card.Title>
                                     <Card.Subtitle>(Express, SQL, MySQL2, Sequelize)</Card.Subtitle>
                                     <Card.Text>A demo CRM for a theoretical storage company</Card.Text>
-                                    <Card.Link className="App-link" href="https://obscure-fortress-36199.herokuapp.com/" target="_blank">Repo</Card.Link>
-                                    <Card.Link className="App-link" href="https://github.com/Capricious150/Storage-Company-CRM" target="_blank">Deployed</Card.Link>
+                                    <Card.Link className="App-link" href="https://github.com/Capricious150/Storage-Company-CRM" target="_blank">Repo</Card.Link>
+                                    <Card.Link className="App-link" href="https://obscure-fortress-36199.herokuapp.com/" target="_blank">Deployed</Card.Link>
                                 </Card.Body>
                             </Card>
                         </Col>
