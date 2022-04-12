@@ -9,7 +9,7 @@ function WorkModal(){
 
     return(
         <>
-            <Nav.Link className="App-link" onClick={handleShow}>Work</Nav.Link>
+            <Nav.Link style={{color:"#E9A6A6"}} onClick={handleShow}>Work</Nav.Link>
             <Modal size = "xl" centered show={showHome} onHide = {handleHide}>
             <Modal.Header className="App-modal-header" closeButton closeVariant="white">
                 <Modal.Title className="Super">Some of my Work</Modal.Title>
@@ -18,7 +18,7 @@ function WorkModal(){
                 <Container>
                     <Row>
                         <Col xs={12} lg={6}>
-                        <Card border="dark" className="Upper-card">
+                        <Card border="dark" className="Upper-card hvr-grow">
                             <Card.Img variant="top" src="Storage_Company.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>Storage CRM</Card.Title>
@@ -30,7 +30,7 @@ function WorkModal(){
                             </Card>
                         </Col>
                         <Col xs={12} lg={6}>
-                        <Card border="dark" className="Upper-card">
+                        <Card border="dark" className="Upper-card hvr-grow">
                             <Card.Img variant="top" src="PokeMon_TCG.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>Pokemon Card Finder</Card.Title>
@@ -44,7 +44,7 @@ function WorkModal(){
                     </Row>
                     <Row>
                         <Col xs={12} sm={6} lg={3}>
-                        <Card border="dark">
+                        <Card border="dark" className="hvr-grow">
                             <Card.Img variant="top" src="Social_API.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>Demo Social Media API</Card.Title>
@@ -56,7 +56,7 @@ function WorkModal(){
                             </Card>
                         </Col>
                         <Col xs={12} sm={6} lg={3}>
-                        <Card border="dark">
+                        <Card border="dark" className="hvr-grow">
                             <Card.Img variant="top" src="Employee_Tracker.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>Demo E-Commerce API</Card.Title>
@@ -68,7 +68,7 @@ function WorkModal(){
                             </Card>
                         </Col>
                         <Col xs={12} sm={6} lg={3}>
-                        <Card border="dark">
+                        <Card border="dark" className="hvr-grow">
                             <Card.Img variant="top" src="This_Portfolio.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>This Portfolio</Card.Title>
@@ -80,7 +80,7 @@ function WorkModal(){
                             </Card>
                         </Col>
                         <Col xs={12} sm={6} lg={3}>
-                        <Card border="dark">
+                        <Card border="dark" className="hvr-grow">
                             <Card.Img variant="top" src="Day_Planner2.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>Day Planner</Card.Title>

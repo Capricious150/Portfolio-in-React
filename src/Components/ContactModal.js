@@ -9,7 +9,7 @@ function ContactModal(){
 
     return (
         <>
-            <Nav.Link className="App-link" onClick={handleShow}>Contact</Nav.Link>
+            <Nav.Link style={{color:"#E9A6A6"}} onClick={handleShow}>Contact</Nav.Link>
             <Modal size = "lg" centered show={showHome} onHide = {handleHide}>
             <Modal.Header className="App-modal-header" closeButton closeVariant="white">
                 <Modal.Title className="Super">How to Reach Me</Modal.Title>
