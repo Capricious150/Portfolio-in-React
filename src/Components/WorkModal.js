@@ -18,7 +18,7 @@ function WorkModal(){
                 <Container>
                     <Row>
                         <Col xs={12} lg={6}>
-                        <Card border="dark" className="Upper-card hvr-grow">
+                        <Card border="dark" className="Upper-card hvr-float">
                             <Card.Img variant="top" src="Storage_Company.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>Storage CRM</Card.Title>
@@ -30,7 +30,7 @@ function WorkModal(){
                             </Card>
                         </Col>
                         <Col xs={12} lg={6}>
-                        <Card border="dark" className="Upper-card hvr-grow">
+                        <Card border="dark" className="Upper-card hvr-float">
                             <Card.Img variant="top" src="PokeMon_TCG.png" />
                                 <Card.Body className="App-modal-header">
                                     <Card.Title>Pokemon Card Finder</Card.Title>
