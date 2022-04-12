@@ -35,7 +35,7 @@ function WorkModal(){
                         </Col>
                     </Row>
                     <Row>
-                        <Col xs={12} md={6} lg={4}>
+                        <Col xs={12} sm={6} lg={3}>
                         <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
@@ -44,7 +44,7 @@ function WorkModal(){
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col xs={12} md={6} lg={4}>
+                        <Col xs={12} sm={6} lg={3}>
                         <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
@@ -53,7 +53,16 @@ function WorkModal(){
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col xs={12} md={6} lg={4}>
+                        <Col xs={12} sm={6} lg={3}>
+                        <Card border="dark">
+                            <Card.Img variant="top" src="AustinAProfile.jpg" />
+                                <Card.Body className="App-modal-header">
+                                <Card.Title>Project</Card.Title>
+                                <Card.Text>HEY LOOK AT ME I'M A CARD PLEASE GIVE ME BETTER CONTENT</Card.Text>
+                                </Card.Body>
+                            </Card>
+                        </Col>
+                        <Col xs={12} sm={6} lg={3}>
                         <Card border="dark">
                             <Card.Img variant="top" src="AustinAProfile.jpg" />
                                 <Card.Body className="App-modal-header">
