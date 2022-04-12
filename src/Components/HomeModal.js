@@ -12,6 +12,7 @@ function HomeModal () {
         <>
         <Nav.Link className="App-link" onClick={handleShow}>About</Nav.Link>
         <Modal size = "lg" centered show={showHome} onHide = {handleHide}>
+        <Modal.Header className="App-modal" closeButton></Modal.Header>
 
             <Modal.Body className="App-modal">
                 <Container>

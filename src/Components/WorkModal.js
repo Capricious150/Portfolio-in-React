@@ -11,7 +11,7 @@ function WorkModal(){
         <>
             <Nav.Link className="App-link" onClick={handleShow}>Work</Nav.Link>
             <Modal size = "xl" centered show={showHome} onHide = {handleHide}>
-
+            <Modal.Header className="App-modal" closeButton></Modal.Header>
             <Modal.Body className="App-modal">
                 <Container>
                     <Row>
