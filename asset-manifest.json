@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio-in-React/static/css/main.f50cf972.css",
-    "main.js": "/Portfolio-in-React/static/js/main.5a591809.js",
+    "main.js": "/Portfolio-in-React/static/js/main.b2386ad2.js",
     "index.html": "/Portfolio-in-React/index.html",
     "main.f50cf972.css.map": "/Portfolio-in-React/static/css/main.f50cf972.css.map",
-    "main.5a591809.js.map": "/Portfolio-in-React/static/js/main.5a591809.js.map"
+    "main.b2386ad2.js.map": "/Portfolio-in-React/static/js/main.b2386ad2.js.map"
   },
   "entrypoints": [
     "static/css/main.f50cf972.css",
-    "static/js/main.5a591809.js"
+    "static/js/main.b2386ad2.js"
   ]
 }
