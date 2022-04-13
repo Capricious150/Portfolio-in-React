@@ -19,7 +19,7 @@ function ResumeModal(){
                     <Container>
                         <Row>
                             <Col>
-                                <h5>Core Skills</h5>
+                                <h5 className="Super">Core Skills</h5>
                                 <ul>
                                     <li>Javascript</li>
                                     <li>React</li>
@@ -30,7 +30,7 @@ function ResumeModal(){
                                 </ul>
                             </Col>
                             <Col>
-                                <h5>Related Skills</h5>
+                                <h5 className="Super">Related Skills</h5>
                                 <ul>
                                     <li>NodeJS</li>
                                     <li>Express</li>
@@ -44,7 +44,7 @@ function ResumeModal(){
                             </Col>
                         </Row>
                         <Row>
-                            <h5>Additional Technologies</h5>
+                            <h5 className="Super">Additional Technologies</h5>
                             <p>Visual Studio, GitHub, Heroku, Salesforce, Atlassian JIRA and Zendesk, GSuite, Microsoft Office, WorkForce, ADP, Slack, Hipchat, Zoom </p>
                             <h5><a className="App-link" href="./AustinAndrews-Resume.pdf" target="_blank" rel="noreferrer">View my Resume (PDF)</a></h5>
                         </Row>
