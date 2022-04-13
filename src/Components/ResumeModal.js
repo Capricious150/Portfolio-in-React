@@ -46,7 +46,7 @@ function ResumeModal(){
                         <Row>
                             <h5>Additional Technologies</h5>
                             <p>Visual Studio, GitHub, Heroku, Salesforce, Atlassian JIRA and Zendesk, GSuite, Microsoft Office, WorkForce, ADP, Slack, Hipchat, Zoom </p>
-                            <h5><a className="App-link" href="./assets/pdf/AustinAndrews-Resume.pdf" target="_blank" rel="noreferrer">View my Resume (PDF)</a></h5>
+                            <h5><a className="App-link" href="./AustinAndrews-Resume.pdf" target="_blank" rel="noreferrer">View my Resume (PDF)</a></h5>
                         </Row>
                     </Container>
                 </Modal.Body>
